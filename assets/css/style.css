@@ -1,0 +1,36 @@
+p {
+    color: grey;
+    background-color: aqua;
+}
+
+h2 {
+    color: blue;
+    background-color: darkgrey;
+}
+
+p {
+    color: black;
+    background-color: darkgray;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h1 {
+    color: indigo;
+    background-color: dimgray;
+}
+
+ul {
+    color: white;
+    background-color: darkslateblue;
+}
+
+ol {
+    color: black;
+    background-color: aqua;
+}
+body {
+    background-color: darkslategrey;
+}
